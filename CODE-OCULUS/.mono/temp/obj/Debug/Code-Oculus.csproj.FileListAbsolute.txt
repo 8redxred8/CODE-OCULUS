@@ -1,0 +1,26 @@
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.dll
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.pdb
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csprojAssemblyReference.cache
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfoInputs.cache
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfo.cs
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csproj.CoreCompileInputs.cache
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.dll
+P:\BPA\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.pdb
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.dll
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.pdb
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csproj.AssemblyReference.cache
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfoInputs.cache
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfo.cs
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csproj.CoreCompileInputs.cache
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.dll
+F:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.pdb
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.dll
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\bin\Debug\Code-Oculus.pdb
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csproj.AssemblyReference.cache
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfoInputs.cache
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.AssemblyInfo.cs
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.csproj.CoreCompileInputs.cache
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.dll
+E:\Project Files\BPA-CODE-OCULUS\GAME\CODE-OCULUS\.mono\temp\obj\Debug\Code-Oculus.pdb
